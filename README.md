@@ -15,7 +15,7 @@ El análisis se llevó a cabo en un entorno controlado con fines educativos.
 Registro de todas las rutas exploradas, métodos HTTP y advertencias generadas por Nikto al analizar Juice Shop con la opción básica.
 
 ### ⚠️ Vulnerabilidades críticas (.html)  
-Informe en formato visual con las vulnerabilidades más relevantes detectadas mediante el flag `-Tuning 1`.
+Informe en formato visual con las vulnerabilidades más relevantes detectadas y datos sobre las mismas.
 
 ## 🛠️ Herramientas utilizadas
 - Máquina virtual Kali Linux, alojada en oracle VM VirtualBox.
