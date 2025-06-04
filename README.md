@@ -24,7 +24,8 @@ Informe en formato visual con las vulnerabilidades más relevantes detectadas y 
 - Mozilla Firefox como navegador principal de la máquina.
 
 ## 🎓 Objetivo
-Aprender a utilizar Nikto para detectar configuraciones inseguras en un servidor web. Esta práctica permite familiarizarse con la lectura de resultados de escáneres automáticos y con los riesgos más comunes en aplicaciones web.
+Aprender a utilizar Nikto para detectar configuraciones inseguras en un servidor web.  
+Esta práctica permite familiarizarse con la lectura de resultados de escáneres automáticos y con los riesgos más comunes en aplicaciones web.  
 Este proyecto puede servir como **material de referencia y práctica** para reforzar conceptos clave.
 
 ## 🚀 Cómo usar
